@@ -108,6 +108,10 @@ On Compute Engine, [you can create](https://cloud.google.com/container-optimized
 
 The [Model Garden](https://cloud.google.com/model-garden) provides a curated collection of LLMs. As of October 2023, only Code Llama and Llama 2 are available out of the most popular open-source code LLMs.
 
+#### Lambda
+
+Lambda provides on-demand access to dedicated cloud GPU instances & clusters. After [creating an account](https://cloud.lambdalabs.com/sign-up), you can quickly deploy pre-configured environments with popular ML tools and one-click Jupyter access via a simple dashboard or a developer-friendly API. You only pay for what you use, with no egress fees.
+
 #### Others
 
 There are a number of other deployment methods, including [Cog](https://github.com/replicate/cog), [Triton Inference Server](https://github.com/triton-inference-server/server), and [RayLLM](https://github.com/ray-project/ray-llm). If you have experience with these or others, please open an issue / PR and let us know about your experience!
@@ -145,7 +149,7 @@ Instructions for requesting a quota increase on GCP can be found [here](https://
 
 #### Others
 
-There are a number of GPU-focused clouds, including [Lambda Labs](https://lambdalabs.com/), [Runpod](https://runpod.io), [ShadeForm](https://www.shadeform.ai), [Vast.ai](https://vast.ai/), [FluidStack](https://www.fluidstack.io), [CoreWeave](https://www.coreweave.com), [Paperspace](https://www.paperspace.com/), and [Jarvis Labs](https://jarvislabs.ai). If you have experience with these or others, please open an issue / PR and let us know about your experience!
+There are a number of GPU-focused clouds, including [Lambda](https://lambdalabs.com/), [Runpod](https://runpod.io), [ShadeForm](https://www.shadeform.ai), [Vast.ai](https://vast.ai/), [FluidStack](https://www.fluidstack.io), [CoreWeave](https://www.coreweave.com), [Paperspace](https://www.paperspace.com/), and [Jarvis Labs](https://jarvislabs.ai). If you have experience with these or others, please open an issue / PR and let us know about your experience!
 
 ## 4. Can you secure enough budget for your team?
 
